@@ -1,6 +1,6 @@
 <!-- ===================== HERO SECTION ===================== -->
 <p align="center">
-  <img src="[https://user-images.githubusercontent.com/XXXXXXX/your-3d-image.png](https://www.figma.com/design/tx9xw6oq3Gr7L2Q4w9LFsN/Untitled--Copy-?node-id=37501-144&p=f&t=2zTjnweVXqPbvOq7-0)" width="100%" alt="3D Banner"/>
+  <img src=<a href='https://postimg.cc/4YBwnqrg' target='_blank'><img src='https://i.postimg.cc/4YBwnqrg/hero.jpg' border='0' alt='hero'></a>" width="100%" alt="3D Banner"/>
 </p>
 
 <h1 align="center">🚀 Raj Haldar</h1>
