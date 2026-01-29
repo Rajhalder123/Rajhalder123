@@ -1,6 +1,6 @@
 <!-- ===================== HERO SECTION ===================== -->
 <p align="center">
-  <img src=<a href='https://postimg.cc/4YBwnqrg' target='_blank'><img src='https://i.postimg.cc/4YBwnqrg/hero.jpg' border='0' alt='hero'>
+ <img src='https://i.postimg.cc/4YBwnqrg/hero.jpg' border='0' alt='hero'/>
 </p>
 
 <h1 align="center">🚀 Raj Haldar</h1>
