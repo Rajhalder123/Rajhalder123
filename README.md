@@ -1,6 +1,6 @@
 <!-- ===================== HERO SECTION ===================== -->
 <p align="center">
-  <img src="https://i.postimg.cc/4YBwnqrg/hero.jpg" alt="3D Developer Banner" width="100%" />
+ <img src='https://i.postimg.cc/4YBwnqrg/hero.jpg' border='0' alt='hero'/>
 </p>
 
 <h1 align="center">Raj Haldar</h1>
